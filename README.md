@@ -1,5 +1,7 @@
 # 🎰 Lucky Lanes
 
+🎮 **[Play the Live Game Here!](https://luckylanes.fitriafiq.com)**
+
 **Lucky Lanes** is a turn-based racing game where 4 suits (Hearts, Spades, Clubs, Diamonds) race to the finish line on a 6-space track. Players draw cards to advance their randomly assigned suits, use special "Fate's Choice" action cards to sabotage opponents or boost themselves, and dodge hidden penalty cards scattered on the track. 
 
 Built with **Nuxt 3**, **Vue 3**, **Tailwind CSS**, and **Nuxt UI**.
